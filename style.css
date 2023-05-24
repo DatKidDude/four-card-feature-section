@@ -29,6 +29,8 @@ svg {
 
 body {
   font-family: var(--ff-Poppins);
+  background-color: var(--light-gray);
+  color: var(--grayish-blue);
   min-height: 100vh;
   line-height: 1.5;
 }
@@ -38,14 +40,20 @@ body {
   width: min(90%, 69.375rem);
 }
 
-.fw-200 {
-  font-weight: var(--fw-200);
+/** Header **/
+.header {
+  margin-block: 5rem 4rem;
 }
 
-.fw-700 {
+.header-title {
+  font-weight: var(--fw-200);
+  color: var(--dark-blue);
+}
+
+.header-title span {
   font-weight: var(--fw-700);
 }
 
-.dark-blue {
-  color: var(--dark-blue);
+.header-subheading {
+  max-width: 60ch;
 }
