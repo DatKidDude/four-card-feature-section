@@ -21,8 +21,31 @@
   box-sizing: border-box;
 }
 
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
 body {
   font-family: var(--ff-Poppins);
   min-height: 100vh;
   line-height: 1.5;
+}
+
+.max-width {
+  /* 1110px */
+  width: min(90%, 69.375rem);
+}
+
+.fw-200 {
+  font-weight: var(--fw-200);
+}
+
+.fw-700 {
+  font-weight: var(--fw-700);
+}
+
+.dark-blue {
+  color: var(--dark-blue);
 }
