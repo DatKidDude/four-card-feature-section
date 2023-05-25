@@ -1,9 +1,9 @@
-![four-card-feature-section](images\desktop-design.jpg)
+![four-card-feature-section](images/desktop-design.jpg)
 
 <h1 align="center">Four Card Feature Section</h1>
 
 <div align="center">
-
+[LIVE](https://datkiddude.github.io/four-card-feature-section/)
 [CHALLENGE](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK) |
 [SOLUTION](https://www.frontendmentor.io/solutions)
 
